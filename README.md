@@ -14,6 +14,6 @@ This project has been programmed and developed on STMCUBE also compile with Keil
 ![PCB_design](Demo/PCB_design.png)  
  **Product view:**  
    **PCB front:**  
-   ![PCB_f](Demo/schematic.png)  
+   ![PCB_f](Demo/PCB_front.png)  
    **PCB back:  
-   ![PCB_b](Demo/schematic.png)  
+   ![PCB_b](Demo/PCB_back.png)  
